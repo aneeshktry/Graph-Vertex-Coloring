@@ -1,0 +1,11 @@
+application: appgraphcoloring
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+- url: /stylejav
+  static_dir: stylejav
+
+- url: .*
+  script: graph.py

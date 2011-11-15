@@ -1,0 +1,17 @@
+body
+{
+background-color:#C0C0C0;
+}
+h1
+{
+color:red;
+font-family:"Times New Roman"
+}
+#content{
+float:left;
+width:850px;
+}
+#sidebar{
+float:right;
+width:350px;
+}
