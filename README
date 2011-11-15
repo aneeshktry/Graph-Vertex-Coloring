@@ -1,0 +1,7 @@
+Graph-Vertex-Coloring is a simple application for coloring a graph.
+The idea behind this is no adjacent vertex has same color and color the graph using minimum number of color. 
+Here we using graph coloring algorithm. 
+
+To draw a graph.  
+>To draw a vertex double click on the field.
+>To draw an edge click on one vertex,then drag and drop on the next vertex. 
